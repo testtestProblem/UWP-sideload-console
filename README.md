@@ -586,6 +586,12 @@ Add below 3 picture sign
 Or, It will show error code 0x800B010A  
 ![image](https://github.com/testtestProblem/UWP_Extension_Example/assets/107662393/fa541821-e83a-4886-8095-91189c6f11b8)  
 
+# Install
+Right-click on the Add-AppDevPackage.ps1 file. Choose Run with PowerShell and follow the prompts.  
+File explorer navigated to PowerShell script shown  
+![image](https://github.com/testtestProblem/UWP-sideload-console/assets/107662393/a6c56099-fde9-4152-aa72-955d20e492b0)  
+
+
 # Other
 
 error code => DEP1000: Cannot copy file  
